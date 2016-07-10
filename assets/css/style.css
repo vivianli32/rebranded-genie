@@ -307,11 +307,15 @@ box-shadow:         0px 4px 0px rgba(0, 109, 203, 0.93);
 }
 
 #slogan {
-	color: pink;
+	color: white;
 	margin-bottom: 25px;
     font-size:64px;
     font-weight:700;
     text-shadow: 2px 1px 3px rgba(53, 53, 53, 1);
+}
+
+#orange-text{
+    color:#fc9c3d;
 }
 
 #headerwrap .img-responsive {
