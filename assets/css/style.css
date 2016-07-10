@@ -607,3 +607,12 @@ csmall2 {
 	padding-right: 15px;
 	font-size: 18px;
 }
+
+@media only screen 
+  and (min-device-width: 4320px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+      #slogan{font-size:16px;}
+      #headerwraptext h3{font-size:12px;}
+}
